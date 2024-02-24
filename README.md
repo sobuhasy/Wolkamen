@@ -1,11 +1,13 @@
 # Wolkamen
 I will try to do a Pygame-based Wolfenstein copy called Wolkamen (Волкамень) because here I will replace the Germans with the Russians.
 
-Setting: The game is set during a fictional war between Ukraine and Russia.
+## Setting 
+The game is set during a fictional war between Ukraine and Russia.
 
-Main Character: You play as a brave Ukrainian soldier named Ivan Kovalenko.
+## Main Character 
+You play as a brave Ukrainian soldier named Ivan Kovalenko.
 
-Story:
+## Story
 
 Ivan Kovalenko, a highly decorated soldier from Ukraine, is captured by the Russian forces during a reconnaissance mission. He is taken to a high-security prison fortress named “Wolkamen”, located deep within the Ural Mountains.
 
