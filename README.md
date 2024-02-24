@@ -13,7 +13,7 @@ Ivan Kovalenko, a highly decorated soldier from Ukraine, is captured by the Russ
 
 Despite the harsh conditions and brutal treatment, Ivan remains unbroken. He begins to plan his escape, gathering information and making allies among the other prisoners.
 
-One day, Ivan stumbles upon a dark secret. The Russians are working on a mysterious and dangerous project within the fortress. Codenamed “Operation ZOV” (a reference to the Russian propaganda that uses these symbols, especially the "Z" one), the project aims to create super soldiers using advanced and untested technology.
+One day, Ivan stumbles upon a dark secret. The Russians are working on a mysterious and dangerous project within the fortress. Codenamed “Operation ZOV” (a reference to the Russian propaganda that uses these symbols, especially the "Z" one), the project aims to create super soldiers using advanced and untested technology in order to take over the World by first invading Ukraine, and then invading Poland, the Baltics (Estonia/Latvia/Lithuania), Finland, Romania and so on....
 
 Realizing the implications of this project, Ivan decides not just to escape, but also to sabotage the project and save his homeland from this impending threat.
 
