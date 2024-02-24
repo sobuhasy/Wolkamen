@@ -18,3 +18,5 @@ One day, Ivan stumbles upon a dark secret. The Russians are working on a mysteri
 Realizing the implications of this project, Ivan decides not just to escape, but also to sabotage the project and save his homeland from this impending threat.
 
 The game follows Ivan’s perilous journey as he fights his way through the fortress, sabotages the project, and confronts the mastermind behind Operation ZOV.
+
+For me this is a game that is fighting against the War that happen in Ukraine and against Russian Imperialism.
