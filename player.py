@@ -36,7 +36,12 @@ class Player:
             self.angle += PLAYER_ROT_SPEED * self.game.delta_time
         DOUBLE_PI = math.tau
         self.angle %= DOUBLE_PI
-
+    
+    def draw(self):
+        pg.draw.line(self.game.screen, 'red', (int(self.x * 100, self.y * 100),
+                                                 self.x * 100 + WIDTH * math.cos(self.angle),
+                                                 self.y * 100 + WIDTH * math.sin(self.angle)), 2)
+        pg.draw.circle(self.game.screen, 'blue', (self.x * 100, self.y * 100), 15)
 
     def update(self):
         self.movement()
