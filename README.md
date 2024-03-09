@@ -20,3 +20,5 @@ Realizing the implications of this project, Ivan decides not just to escape, but
 The game follows Ivan’s perilous journey as he fights his way through the fortress, sabotages the project, and confronts the mastermind behind Operation ZOV.
 
 For me this is a game that is fighting against the War that happen in Ukraine and against Russian Imperialism.
+
+The source of inspiration for this videogame can also be found in this very interesting tutorial by Coder Space: https://youtu.be/ECqUrT7IdqQ?si=oZPso7Nhv-GHQvJI
