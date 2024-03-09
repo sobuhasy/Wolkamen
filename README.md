@@ -21,4 +21,4 @@ The game follows Ivan’s perilous journey as he fights his way through the fort
 
 For me this is a game that is fighting against the War that happen in Ukraine and against Russian Imperialism.
 
-The source of inspiration for this videogame can also be found in this very interesting tutorial by Coder Space: https://youtu.be/ECqUrT7IdqQ?si=oZPso7Nhv-GHQvJI
+The source of inspiration for this videogame can also be found in this very interesting tutorial by Coder Space about realizing the DOOM-inspired Wolvenstein copy: https://youtu.be/ECqUrT7IdqQ?si=oZPso7Nhv-GHQvJI
