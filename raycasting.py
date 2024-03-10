@@ -14,9 +14,9 @@ class RayCasting:
         for ray, values in enumerate(self.ray_casting_result):
             depth, proj_height, texture, offset = values
 
-            wall_column = self.textures[texture].subsurface(offset * (TEXTURE_SIZE - SCALE), SCALE, TEXTURE_SIZE)
+            wall_column = self.textures[texture].subsurface(offset * (TEXTURE_SIZE - SCALE), 0, SCALE, TEXTURE_SIZE)
             wall_column = pg.transform.scale(wall_column, (SCALE, int(proj_height)))
-            wall_pos = ray * SCALE, HALF_HEIGHT - proj_height // 2
+            wall_pos = (ray * SCALE, HALF_HEIGHT - proj_height // 2)
 
             self.objects_to_render.append((depth, wall_column, wall_pos))
 
@@ -69,11 +69,11 @@ class RayCasting:
             if depth_vert < depth_hor:
                 depth, texture = depth_vert, texture_vert
                 y_vert %= 1
-                offset = y_vert if cos_a > 0 else 1 - y_vert
+                offset = y_vert if cos_a > 0 else (1 - y_vert)
             else:
                 depth, texture = depth_hor, texture_hor
                 x_hor %= 1
-                offset = 1 - x_hor if sin_a > 0 else x_hor
+                offset = (1 - x_hor) if sin_a > 0 else x_hor
 
             # remove fisheye effect
             depth *= math.cos(self.game.player.angle - ray_angle)
